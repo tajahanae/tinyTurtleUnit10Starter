@@ -23,6 +23,10 @@ right(120);
 
 function rectangle(){
 forward(100);
+right(20);
+forward(100);
+right(20);
+forward(100);
 
 }
 
